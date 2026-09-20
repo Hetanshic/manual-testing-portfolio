@@ -27,7 +27,7 @@ A self-directed manual testing project on [SauceDemo](https://www.saucedemo.com)
 - Exploratory and structured test execution
 - Defect identification and reporting with clear reproduction steps and severity rating
 - Test documentation: test plans and summary reporting
-- Basic exposure to API testing (Postman) and UI automation (Playwright) — see [link to Project 2 repo, if applicable]
+- Basic exposure to API testing (Postman) and UI automation (Playwright)
 
 ## Results Summary
 
