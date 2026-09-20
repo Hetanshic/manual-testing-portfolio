@@ -18,7 +18,7 @@ A self-directed manual testing project on [SauceDemo](https://www.saucedemo.com)
 | File | Description |
 |---|---|
 | [`Test_Plan.docx`](./Test_Plan.docx) | Scope, objectives, approach, and entry/exit criteria |
-| [`Test_Cases.xlsx`](./Test_Cases.xlsx) | 30 test cases, 2 logged defects, and a summary report with pass/fail metrics |
+| [`Test_Cases.xlsx`](./Test_Cases.xlsx) | 30 test cases, 1 logged defect, and a summary report with pass/fail metrics |
 | [`screenshots/`](./screenshots) | Evidence for the defects found during execution |
 
 ## Skills Demonstrated
@@ -30,8 +30,8 @@ A self-directed manual testing project on [SauceDemo](https://www.saucedemo.com)
 
 ## Results Summary
 
-- **30** test cases executed — **28 passed**, **2 failed**
-- **2** defects logged (1 Medium, 1 Low severity)
+- **30** test cases executed — **29 passed**, **1 failed**
+- **1** defects logged (1 Medium severity)
 - No critical or blocking issues found in the core purchase flow
 
 ## About
